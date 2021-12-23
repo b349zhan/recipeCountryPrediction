@@ -1,4 +1,4 @@
-# recipeCountryPrediction
+# Recipe's Originated Country Prediction
 
 Given a recipe(json format), we would like to analyze the characteristic between different cuisines from different countries. 
 
